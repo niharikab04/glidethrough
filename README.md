@@ -161,8 +161,7 @@ To effectively use **Guide Through**, follow these steps:
 - **Customizable User Profiles**: Allow users to personalize their profiles with themes, profile pictures, bios, and links to their social media.
 
 - **Rich Media Support**: Support uploading and embedding of rich media such as videos, images, and infographics within posts and answers.
-  
-- **Browser Compatibility**: Ensure compatibility across all major web browsers to improve accessibility and user experience. Currently optimized for Firefox (both desktop and mobile versions).
+
 
 ## Queries
 
