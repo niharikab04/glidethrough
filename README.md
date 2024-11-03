@@ -47,19 +47,19 @@ To run **Guide Through** locally, follow these steps:
 
 1)Clone the repository:
    
-   <pre>git clone https://github.com/niharikab04/Guide-Through</pre>
+   <pre>git clone https://github.com/niharikab04/glidethrough</pre>
    
   (or)
 
   Downloading the Project ZIP File
 
-    -Navigate to the GitHub repository (https://github.com/niharikab04/Guide-Through).
+    -Navigate to the GitHub repository (https://github.com/niharikab04/glidethrough).
     -Click on the "Code" button and select "Download ZIP".
     -Extract the ZIP file to a directory on your computer.
    
  2) Navigate to the project directory:
 
-   <pre>cd Guide-Through</pre>
+   <pre>cd glidethrough</pre>
 
 # Server Setup
 
@@ -171,9 +171,6 @@ For any questions or inquiries regarding **Guide Through**, please contact us at
 
 For a comprehensive understanding of **Guide Through**, please refer to our [Full Detail Documentation](https://1drv.ms/b/s!Ag9Ge0qNoAKwjYhB8-fIKMbW2Xsb6g?e=JTEkbY).
 
-## Note
-
-This application works best on Firefox (both desktop and mobile versions). There are known issues with other browsers that we plan to address in future updates.
 
 
 ## Get Started
